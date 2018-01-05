@@ -21,4 +21,4 @@ $ sudo chmod +x /usr/local/bin/docgen
 **For windows download the binary and set environment variable so that you can access the binary from terminal**
 
 ### Screenshot
-[Docgen](https://raw.githubusercontent.com/thedevsaddam/docgen/master/screenshot.png)
+![Docgen](https://raw.githubusercontent.com/thedevsaddam/docgen/master/screenshot.png)
