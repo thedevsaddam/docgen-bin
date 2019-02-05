@@ -6,10 +6,10 @@ Transform your postman collection to html documentation
 
 | OS      	| x86                                                                                      	| x86_64                                                                                      	|
 |---------	|------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------	|
-| Mac     	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v1/mac_x86.zip)     	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v1/mac_x86_64.zip)     	|
-| Linux   	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v1/linux_x86.zip)   	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v1/linux_x86_64.zip)   	|
-| FreeBSD 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v1/freebsd_x86.zip) 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v1/freebsd_x86_64.zip) 	|
-| Windows 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v1/windows_x86.zip) 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v1/windows_x86_64.zip) 	|
+| Mac     	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/mac_x86.zip)     	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/mac_x86_64.zip)     	|
+| Linux   	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/linux_x86.zip)   	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/linux_x86_64.zip)   	|
+| FreeBSD 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/freebsd_x86.zip) 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/freebsd_x86_64.zip) 	|
+| Windows 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/windows_x86.zip) 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/windows_x86_64.zip) 	|
 
 
 ### Installation
