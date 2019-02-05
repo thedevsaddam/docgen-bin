@@ -31,4 +31,4 @@ $ sudo chmod +x /usr/local/bin/docgen
 * To build a Markdown documentation use `docgen build -i input-postman-collection.josn -o ~/Downloads/index.md -m`
 
 ### Screenshot
-![Docgen](https://raw.githubusercontent.com/thedevsaddam/docgen/master/screenshot.png)
+![Docgen](https://raw.githubusercontent.com/thedevsaddam/docgen/v2/screenshot.png)
