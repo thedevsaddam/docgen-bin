@@ -6,10 +6,10 @@ Transform your postman collection to html documentation
 
 | OS      	| x86                                                                                      	| x86_64                                                                                      	|
 |---------	|------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------	|
-| Mac     	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/mac_x86.zip)     	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/mac_amd64.zip)     	|
-| Linux   	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/linux_x86.zip)   	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/linux_x86_64.zip)   	|
-| FreeBSD 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/freebsd_x86.zip) 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/freebsd_x86_64.zip) 	|
-| Windows 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/windows_x86.zip) 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/windows_x86_64.zip) 	|
+| Mac     	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.1/mac_386.zip)     	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.1/mac_amd64.zip)     	|
+| Linux   	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.1/linux_386.zip)   	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.1/linux_amd64.zip)   	|
+| FreeBSD 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/freebsd_386.zip) 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/freebsd_amd64.zip) 	|
+| Windows 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/windows_386.zip) 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2/windows_amd64.zip) 	|
 
 
 ### Installation
