@@ -6,10 +6,10 @@ Transform your postman collection to html documentation
 
 | OS      	| x86                                                                                      	| x86_64                                                                                      	|
 |---------	|------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------	|
-| Mac     	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.3/mac_386.zip)     	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.3/mac_amd64.zip)     	|
-| Linux   	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.3/linux_386.zip)   	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.3/linux_amd64.zip)   	|
-| FreeBSD 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.3/freebsd_386.zip) 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.3/freebsd_amd64.zip) 	|
-| Windows 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.3/windows_386.zip) 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.3/windows_amd64.zip) 	|
+| Mac     	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.4/mac_386.zip)     	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.4/mac_amd64.zip)     	|
+| Linux   	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.4/linux_386.zip)   	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.4/linux_amd64.zip)   	|
+| FreeBSD 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.4/freebsd_386.zip) 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.4/freebsd_amd64.zip) 	|
+| Windows 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.4/windows_386.zip) 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.4/windows_amd64.zip) 	|
 
 
 ## Installation
