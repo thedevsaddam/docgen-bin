@@ -6,40 +6,31 @@ Transform your postman collection to html documentation
 
 | OS      	| x86                                                                                      	| x86_64                                                                                      	|
 |---------	|------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------	|
-| Mac     	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.4/mac_386.zip)     	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.4/mac_amd64.zip)     	|
-| Linux   	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.4/linux_386.zip)   	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.4/linux_amd64.zip)   	|
-| FreeBSD 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.4/freebsd_386.zip) 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.4/freebsd_amd64.zip) 	|
-| Windows 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.4/windows_386.zip) 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/v2.4/windows_amd64.zip) 	|
+| Mac     	| Download | [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/latest/mac_amd64)     	|
+| Linux   	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/latest/linux_386)   	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/latest/linux_amd64)   	|
+| Windows 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/latest/windows_386.exe) 	| [Download](https://github.com/thedevsaddam/docgen-bin/blob/master/latest/windows_amd64.exe) 	|
 
 
-## Installation
-
-#### Mac
+#### Installation on Mac/Linux
 ```bash
-brew tap thedevsaddam/cli https://github.com/thedevsaddam/homebrew-cli.git
-brew install docgen
+curl https://raw.githubusercontent.com/thedevsaddam/docgen/v3/install.sh -o install.sh && sudo chmod +x install.sh && sudo ./install.sh
 ```
 
-#### Linux
-Download the binary and unzip it then follow the instruction below
-```bash
-$ cp docgen /usr/local/bin/docgen
-$ sudo chmod +x /usr/local/bin/docgen
-```
-
-#### Windows
 **For windows download the binary and set environment variable so that you can access the binary from terminal**
+
+#### [Download Binary](https://github.com/thedevsaddam/docgen-bin/tree/master/latest)
 
 ### Available features
 * Live postman collection to documentation
-* Build postman collection to html/markdown documentation
-* Supports multi-level collection build
+* Build postman collection to HTML/Markdown documentation
+* Supports multi-level collections
 
 ### Usage
 * To view live HTML documentation from postman collection use `docgen server -f input-postman-collection.json -p 8000` This will open the html version of postman collection to the defined port
 * To view live Markown documentation from postman collection use `docgen server -f input-postman-collection.json -p 8000 -m` This will open the markdown version of postman collection to the defined port
 * To make HTML documentation use `docgen build -i input-postman-collection.json -o ~/Downloads/index.html`
 * To make Markdown documentation use `docgen build -i input-postman-collection.json -o ~/Downloads/index.md -m`
+* Use `-s` flag to sort API in lexical order
 
 ### Screenshot
-![Docgen](https://raw.githubusercontent.com/thedevsaddam/docgen/v2/screenshot.png)
+![Docgen](https://raw.githubusercontent.com/thedevsaddam/docgen/v3/screenshot.png)
